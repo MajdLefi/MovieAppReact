@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'Playfair Display', serif;
+}
+body{
+  background: #314455;
+}
+.btn {
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 20px;
+  cursor: pointer;
+  width: 300px;
+  background-color: #D48166;
+  color: white;
+  border-radius: 7px;
+  border: none;
+  outline: none;
+}
